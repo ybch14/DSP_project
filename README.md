@@ -6,3 +6,4 @@ Untitled4.m/Untitled6.m is the plot script.
 
 report_Atom.md is the origin report using Markdown and Atom:markdown-preview-plus (contain latex equations)
 
+all the .mat files are for plot. Ignore them. 
