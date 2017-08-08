@@ -1,9 +1,14 @@
-# DSP_project
+# Frequency Measurement
 
-./final_commit is the directory contains all the final codes.
+This is a course project of Digital Signal Process of Department of EE., Tsinghua University. The main topic is frequency measurement with MUSIC, ESPRIT, CZT algorithm and compare the result with FFT. The result can be find in report.md.
 
-Untitled4.m/Untitled6.m is the plot script.
+### File list
 
-report_Atom.md is the origin report using Markdown and Atom:markdown-preview-plus (contain latex equations)
+- ```report.md```: the technical report of this project, including results.
+- ```image/```: images in ```report.md```
+- ```code/src/```: src code of the algorithms, the ```multi_``` or ```single_``` means the function is used to process multiple frequency signal or single frequency signal.
+- ```code/test/```: src code for testing the performance of the algorithms.
 
-all the .mat files are for plot. Ignore them. 
+### Note
+
+This project need MATLAB 2016 or newer versions. 
